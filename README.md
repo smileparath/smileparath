@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @parath
-- 👀 I’m interested in ...
+- 👀 I’m interested in coding & editing 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on !...
 - 📫 How to reach me smileparath@gmail.com
